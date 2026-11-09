@@ -1,7 +1,15 @@
 {
+  "version": "V4 Experience",
   "html_pages": 18,
-  "css_files": 1,
+  "assets": [
+    "ar-condicionado.webp",
+    "electrotathi.webp",
+    "geladeira.webp",
+    "home-tech.webp",
+    "lavadora.webp",
+    "microondas.webp"
+  ],
   "missing_links": [],
-  "architecture": "multipage-no-js-primary-navigation",
-  "visual_version": "V3 Premium"
+  "navigation": "multipage, no JavaScript required",
+  "visuals": "local demonstrative assets"
 }
