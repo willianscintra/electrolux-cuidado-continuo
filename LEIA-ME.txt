@@ -1,0 +1,8 @@
+ELECTROLUX CUIDADO CONTÍNUO V3 PREMIUM
+
+Publicação: GitHub Pages, raiz do repositório.
+Arquitetura: multipágina, navegação principal sem dependência de JavaScript.
+Arquivo inicial: index.html.
+
+Atualização visual: cards de produto, linha de cuidado, benefícios em carteira, ElectroTathi e transições CSS.
+Dados, preços e operação são demonstrativos.
